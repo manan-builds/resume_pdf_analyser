@@ -11,7 +11,7 @@ Generate suitability score
 Store candidate profile in MySQL  
 Simple Gradio UI  
 
-Tech Stack
+Tech Stack:
 
 Python
 Gradio
@@ -19,5 +19,6 @@ Scikit-learn
 PDFPlumber
 MySQL
 Joblib
+
 
 
