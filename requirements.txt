@@ -1,0 +1,5 @@
+gradio
+pdfplumber
+pymysql
+scikit-learn
+joblib
