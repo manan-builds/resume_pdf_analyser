@@ -3,13 +3,13 @@ An AI-powered Resume Analyzer that extracts skills from PDF resumes, predicts su
 
 Features
 
-✔ Upload Resume PDF  
-✔ Extract resume text  
-✔ Detect skills using keyword matching  
-✔ Predict role (ML Engineer / Backend Developer / Data Scientist)  
-✔ Generate suitability score  
-✔ Store candidate profile in MySQL  
-✔ Simple Gradio UI  
+Upload Resume PDF  
+Extract resume text  
+Detect skills using keyword matching  
+Predict role (ML Engineer / Backend Developer / Data Scientist)  
+Generate suitability score  
+Store candidate profile in MySQL  
+Simple Gradio UI  
 
 Tech Stack
 
@@ -19,4 +19,5 @@ Scikit-learn
 PDFPlumber
 MySQL
 Joblib
+
 
